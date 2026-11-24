@@ -1,0 +1,8 @@
+{
+  "name": "Young Agency.co",
+  "description": "Where Young Minds Build Their Future. India-wide student-led creative technology agency and community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
